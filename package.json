@@ -1,0 +1,19 @@
+{
+  "name": "packagebag",
+  "version": "1.0.0",
+  "description": "a basic app deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "package"
+  ],
+  "author": "Chetan Kotangale",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
